@@ -17,7 +17,5 @@ Instead of absorbing energy directly from its environment, this species ingests 
 By following the instructions[^1] in this book, you'll be able to fully enjoy your 0-200 rounds around the local star in your host.
 
 
-[^1]: The contents of this book such as text, graphics, images, and other material contained in the book ("Content") are for informational purposes only and do not constitute medical advice; the Content is not intended to be a substitute for professional medical advice, diagnosis, or treatment.  Always seek the advice of a physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read in this book. In the event of a medical emergency, call a doctor or your local emergency number immediately. This book does not recommend or endorse any specific tests, physicians, products, procedures, opinions, or other information that may be mentioned in the book. Reliance on any information provided by this book is solely at your own risk. The Site and the Content are provided on an "as is" basis. 
-
-
+[^1]: The contents of this book such as text, graphics, jokes, and other material conteined in the book ("Content") are for informational purposes only and do not constitute sound medical advice; the Content is not inteded to be a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your mother with any questions you may have regarding pretty much anything. Reliance on any information provided by this book or your mother is solely at your own risk. The book and the Content are provided on an "as is" basis.
 
