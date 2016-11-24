@@ -1,12 +1,12 @@
-# Preface
+# Preface {#preface}
 
 Congratulations! If this content has reached your awareness, you've taken the first step in ensuring your host stays in operating condition for the duration of your stay.
 
 Depending on how long you've already been here, you may have already noticed some of the quirks this species has so some of the content may already be familiar to you. This book is intended for units of any age to bring basic understanding of how the control hardware works and how to maintain it. For detailed information about the rest of the host body, see a reference book such as *Inside Your Outside: All About the Human Body* by Tish Rabe or *Gray's Anatomy* by Henry Gray.
 
-One of the most annoying and perhaps least self-evident feature is that while the host appears to be fully in your control most of the time, it is in fact very little so. This is largely due to the evolutionary history of the species that involves fish, lizards and small rodents. More about this in chapter x.
+One of the most annoying and perhaps least self-evident feature is that while the host appears to be fully in your control most of the time, it is in fact very little so. This is largely due to the evolutionary history of the species that involves fish, lizards and small rodents. More on this in the chapter about [Evolution](#evolution).
 
-There is a very strong connection between the host body and the control hardware and the feedback loops can be a bit disorienting. More in chapter y.
+There is a very strong connection between the host body and the control hardware and the feedback loops can be a bit disorienting. An attempt to clarify this is made in the chapter x.
 
 Luckily the control hardware is very plastic and it is possible to improve its function with regular practice.
 
