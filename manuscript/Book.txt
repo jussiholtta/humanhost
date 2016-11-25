@@ -3,4 +3,5 @@ Evolution.markdown
 OutOfControl.markdown
 ThePsychophysicalEntity.markdown
 Sustenance.markdown
+Troubleshooting.markdown
 
